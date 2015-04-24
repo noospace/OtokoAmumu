@@ -1,0 +1,13 @@
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\ConsoleApplication5.exe.config
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\ConsoleApplication5.exe
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\ConsoleApplication5.pdb
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\LeagueSharp.Common.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\LeagueSharp.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\SharpDX.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\clipper_library.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\LeagueSharp.Sandbox.dll
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\bin\Release\LeagueSharp.xml
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Alen\Documents\Visual Studio 2015\Projects\OtokoAmumu\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

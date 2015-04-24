@@ -174,7 +174,7 @@ namespace ConsoleApplication4
             int y =
                 ObjectManager.Get<Obj_AI_Hero>()
                     .Count(
-                        x => !x.IsDead && x.IsEnemy && _w.IsInRange(Prediction.GetPrediction(x, 0, _w.Range).UnitPosition));
+                        x => !x.IsDead && x.IsEnemy && _w.IsInRange(x.ServerPosition));
             if (ObjectManager.Player.Spellbook.GetSpell(SpellSlot.W).ToggleState == 1 && y > 0)
             {
                 _w.Cast();
@@ -220,7 +220,7 @@ namespace ConsoleApplication4
             int y =
                 ObjectManager.Get<Obj_AI_Hero>()
                     .Count(
-                        x => !x.IsDead && x.IsEnemy && _e.IsInRange(Prediction.GetPrediction(x, 0, _e.Range).UnitPosition));
+                        x => !x.IsDead && x.IsEnemy && _e.IsInRange(x.ServerPosition));
             if (y >= 1)
             {
                 _e.Cast();
